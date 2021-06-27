@@ -35,7 +35,6 @@ Refactoring the existing VBA code helped us improve execution time by almost twi
 ## Summary: 
 
 1. Refactoring code is a big part of programmers' work. Code Refactoring makes the code more extensible, helps in increasing the flexibility of the code. It makes code more efficient, easier to understand or read, less complex, and easier to maintain. 
-
-  1.1 In my opinion, the main **disadvantage of code refactoring** is that it is time-consuming and means expensive. It may introduce new bugs. 
+In my opinion, the main **disadvantage of code refactoring** is that it is time-consuming and means expensive. It may introduce new bugs. 
 
 2. Since **refactoring** is just to change the structure of the code base, not its behavior, the results of executing refactored code are still the same. Following the rule ***DRY*** we eliminated repeating in our code and boost performance, as the refactored code has fewer lines and is quick to respond because of its simplicity. Our code is short to introduce any errors. Still, it takes more attention and understanding of programming principles to understand what we are doing without adding comments. 
