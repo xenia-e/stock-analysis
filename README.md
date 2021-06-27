@@ -12,25 +12,25 @@ Analysis of the performance of different stocks on the stock market ([Figure 1](
 
 ![Figure 1 - Stock Performance Analysis in 2017](https://github.com/xenia-e/stock-analysis/blob/main/Resourses/all_stocks_2017_table.png)
 
->Figure 1 - Stock Performance Analysis in 2017
+>**Figure 1** - Stock Performance Analysis in 2017
 
 
 ![Figure 2 - Stock Performance Analysis in 2018](https://github.com/xenia-e/stock-analysis/blob/main/Resourses/all_stocks_2018_table.png)
 
->Figure 1 - Stock Performance Analysis in 2018
+>**Figure 1** - Stock Performance Analysis in 2018
 
 ### Refactoring
 
-Refactoring the existing VBA code helped us improve execution time by almost twice. See figures 3 and 4.
+Refactoring the existing VBA code helped us improve execution time by almost twice. See _figures 3 and 4_.
 
 ![Figure 3 - Code execution time before refactoring](https://github.com/xenia-e/stock-analysis/blob/main/Resourses/VBA_Challenge_2018_before_ref.png)
 
->Figure 3 - Code execution time before refactoring
+>**Figure 3** - Code execution time before refactoring
 
 
 ![Figure 3 - Refactored Code Execution Time](https://github.com/xenia-e/stock-analysis/blob/main/Resourses/VBA_Challenge_2018.png)
 
->Figure 4 - Refactored Code Execution Time
+>**Figure 4** - Refactored Code Execution Time
 
 ## Summary: 
 
